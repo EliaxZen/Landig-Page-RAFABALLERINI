@@ -1,5 +1,6 @@
 # Landig-Page-RAFABALLERINI
-Landing page feita somento com HTML e CSS para anunciar o Balle Bot da comunidade do Discord da RAFABALLERINI.
+Landing page feita somento com HTML e CSS para anunciar o Balle Bot da comunidade do Discord da RAFABALLERINI.<br/>
+OBS: página feita somente para treino e estudo!!
 ###
 Link da comunidade do Discord : (https://discord.gg/wagxzStdcR)
 ##
